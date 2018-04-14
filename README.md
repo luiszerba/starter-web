@@ -14,5 +14,10 @@ Purporse
 
 ## Deployment
 
+Simple Deployment
+Verificando a funcionalidade do difftool 
 ## How To Contribute
+
+
+Alteração feita no branch testeBranch
 
