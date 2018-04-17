@@ -21,3 +21,7 @@ Verificando a funcionalidade do difftool
 
 Alteração feita no branch testeBranch
 
+
+### Copyright
+
+2014 Git. Training
