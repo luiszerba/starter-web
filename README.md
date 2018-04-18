@@ -18,8 +18,7 @@ Simple Deployment
 Verificando a funcionalidade do difftool 
 ## How To Contribute
 
-
-Alteração feita no branch testeBranch
+Please fork this repository and then issue Pull Request for review
 
 
 ### Copyright
