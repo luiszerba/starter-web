@@ -2,6 +2,8 @@
 
 Simple project 
 Adding a line for rebasing example
+more changes from myfeature
+
 
 ## Introduction
 
